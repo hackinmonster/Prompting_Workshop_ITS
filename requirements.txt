@@ -1,0 +1,6 @@
+python-dotenv
+dataclasses; python_version < "3.7"
+langchain
+langchain-openai
+scikit-learn
+networkx
